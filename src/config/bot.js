@@ -24,7 +24,7 @@ export const botConfig = {
     activities: [
       {
         // Text users will see (example: "Playing /help | Titan Bot").
-        name: "Made with ❤️",
+        name: "Made by Morgsta",
         // Activity type number (0 = Playing).
         type: 0,
       },
@@ -159,11 +159,11 @@ export const botConfig = {
   economy: {
     currency: {
       // Currency display name.
-      name: "coins",
+      name: "ServerPoints",
       // Plural display name.
-      namePlural: "coins",
+      namePlural: "ServerPoints",
       // Currency symbol shown in balances.
-      symbol: "$",
+      symbol: "£",
     },
 
     // Starting balance for new users.
